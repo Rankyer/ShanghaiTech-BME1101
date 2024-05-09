@@ -1,6 +1,7 @@
 # ShanghaiTech-BME1101
 
-2022 Fall ShanghaiTech BME1101 《生物医学工程导论》 
+2022 Fall ShanghaiTech BME1101 《生物医学工程导论》   
+***Introduction to Biomedical Engineering***
 
 *The grade for the team project : 90/100*  
 *Final Grade : A*
