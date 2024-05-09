@@ -1,10 +1,13 @@
-# ShanghaiTech-BME1101-Project
+# ShanghaiTech-BME1101
 
-ShanghaiTech BME1101 《生物医学工程导论》Project 2022 Fall
+2022 Fall ShanghaiTech BME1101 《生物医学工程导论》 
+
+*The grade for the team project : 90/100*  
+*Final Grade : A*
 
 ***四维MRI图像引导脑瘤切除手术的相关问题研究***
 
-##### *Project Announcement*
+#### *Project Announcement*
 
 *项目介绍：*
 
@@ -25,12 +28,12 @@ ShanghaiTech BME1101 《生物医学工程导论》Project 2022 Fall
  *最后，我们也考核项目实施中每个团队所提交材料（如中期项目计划、期末项目报告、相关PPT或小视频）的文案，在项目考核中占比10%。*
 
  *课程项目的日程安排如下：*
-*11月6日: 发放本项目给学生
+*11月6日: 发放本项目给学生*
 
-11**月27日:上传初步项目计划 （最多6页）到Blackboard
+*11月27日:上传初步项目计划 （最多6页）到Blackboard*
 
-12 月8日 ：完成对初步项目计划的中期考核，并提出反馈意见
+*12月8日：完成对初步项目计划的中期考核，并提出反馈意见*
 
-2023 年1月1日： 上传最终项目报告(最多10页，可以再加上一小视频或者PPT文件帮助解释报告) 到Blackboard
+*2023年1月1日： 上传最终项目报告(最多10页，可以再加上一小视频或者PPT文件帮助解释报告) 到Blackboard*
 
-2023 年1月8日 ：完成对最终项目报告的期末考核*
+*2023年1月8日 ：完成对最终项目报告的期末考核*
